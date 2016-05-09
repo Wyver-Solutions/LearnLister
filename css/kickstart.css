@@ -346,7 +346,7 @@ font-size:0;
 	font-size:0.9em;
 	zoom:1;
 	margin:0;
-	background:url(img/icon-arrow-right.png) no-repeat right center;
+	background:url(/css/img/icon-arrow-right.png) no-repeat right center;
 	}
 
 	ul.breadcrumbs li.last a{
@@ -368,7 +368,7 @@ font-size:0;
 
 	ul.breadcrumbs.alt1 li a{
 	padding:10px 25px 10px 15px;
-	background:url(img/breadcrumbs-bg.gif) no-repeat right center;
+	background:url(/css/img/breadcrumbs-bg.gif) no-repeat right center;
 	text-decoration:none;
 	border-top:1px solid #efefef;
 	border-bottom:1px solid #efefef;

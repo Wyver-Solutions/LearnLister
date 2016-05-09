@@ -6,14 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: LearnLister
+title: SFIAplus framework
 email: mberthelemy@wyversolutions.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Collect, share and customize your learning journeys
+  Copyright &copy; BCS
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://learnlister.com" # the base hostname & protocol for your site
-twitter_username: LearnLister
+url: "http://bcs.uk" # the base hostname & protocol for your site
+twitter_username: SFIAplus
 github_username:  berthelemy
 
 # Build settings
 markdown: kramdown
+
+post_dirs: false
+
+category-list: ['Strategy and architecture', 'Change and transformation', 'Development and implementation', 'Delivery and operation', 'Skills and quality','Relationships and engagement']
